@@ -167,21 +167,6 @@
 			"response": []
 		},
 		{
-			"name": "https://localhost:7162/api/Jobs/GetAllJobsList",
-			"request": {
-				"method": "GET",
-				"header": [
-					{
-						"key": "accept",
-						"value": "*/*"
-					}
-				],
-				"url": "https://localhost:7162/api/Jobs/GetAllJobsList",
-				"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:7162/api/Jobs/GetAllJobsList' \\\r\n  -H 'accept: */*'"
-			},
-			"response": []
-		},
-		{
 			"name": "https://localhost:7162/api/Jobs/UpdateJob/12",
 			"request": {
 				"method": "PUT",
@@ -224,6 +209,21 @@
 				},
 				"url": "https://localhost:7162/api/Jobs/GetJoblist",
 				"description": "Generated from cURL: curl -X 'POST' \\\r\n  'https://localhost:7162/api/Jobs/GetJoblist' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"q\": \"sof\",\r\n  \"pageNo\": 1,\r\n  \"pageSize\":2,\r\n  \"locationId\": 1,\r\n  \"departmentId\": 1\r\n}'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Jobs/GetAllJobsList",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					}
+				],
+				"url": "https://localhost:7162/api/Jobs/GetAllJobsList",
+				"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:7162/api/Jobs/GetAllJobsList' \\\r\n  -H 'accept: */*'"
 			},
 			"response": []
 		}
