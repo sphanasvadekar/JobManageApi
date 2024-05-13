@@ -7,7 +7,7 @@ The Job Management API enables users to perform various operations related to jo
 Setup Instructions:
 Database Setup:
 
-Execute the SQL script provided in the "SqlScript" folder.
+Execute the SQL script "JobManagementApi.sql" provided in the "SqlScript" folder.
 Modify the app settings file to configure the connection string with your server. Replace "Server=IN-5CD9370XKC" with "Server={YourServerName};Database=JobManagementDb;Trusted_connection=true;TrustServerCertificate=true;".
 
 
