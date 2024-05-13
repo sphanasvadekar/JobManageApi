@@ -1,0 +1,231 @@
+{
+	"info": {
+		"_postman_id": "a3b68ff7-ada9-4e1c-9405-0722a157f60b",
+		"name": "JobAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "34837716"
+	},
+	"item": [
+		{
+			"name": "https://localhost:7162/api/Department/GetDepartmentList",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					}
+				],
+				"url": "https://localhost:7162/api/Department/GetDepartmentList",
+				"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:7162/api/Department/GetDepartmentList' \\\r\n  -H 'accept: */*'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Department/CreateDepartment",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Sales\"\r\n}"
+				},
+				"url": "https://localhost:7162/api/Department/CreateDepartment",
+				"description": "Generated from cURL: curl -X 'POST' \\\r\n  'https://localhost:7162/api/Department/CreateDepartment' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"title\": \"Sales\"\r\n}'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Department/UpdateDepartment/4",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Research and Development\"\r\n}"
+				},
+				"url": "https://localhost:7162/api/Department/UpdateDepartment/4",
+				"description": "Generated from cURL: curl -X 'PUT' \\\r\n  'https://localhost:7162/api/Department/UpdateDepartment/4' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"title\": \"Research and Development\"\r\n}'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Location/CreateLocation",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Bangalore-Office\",\r\n  \"city\": \"Bangalore\",\r\n  \"state\": \"Karnataka\",\r\n  \"country\": \"India\",\r\n  \"zip\": 560002\r\n}"
+				},
+				"url": "https://localhost:7162/api/Location/CreateLocation",
+				"description": "Generated from cURL: curl -X 'POST' \\\r\n  'https://localhost:7162/api/Location/CreateLocation' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"title\": \"Bangalore-Office\",\r\n  \"city\": \"Bangalore\",\r\n  \"state\": \"Karnataka\",\r\n  \"country\": \"India\",\r\n  \"zip\": 560002\r\n}'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Location/GetAllLocationsList",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					}
+				],
+				"url": "https://localhost:7162/api/Location/GetAllLocationsList",
+				"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:7162/api/Location/GetAllLocationsList' \\\r\n  -H 'accept: */*'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Location/UpdateLocation/3",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Operation\",\r\n  \"city\": \"Mangalore\",\r\n  \"state\": \"Karnataka\",\r\n  \"country\": \"India\",\r\n  \"zip\": 403555\r\n}"
+				},
+				"url": "https://localhost:7162/api/Location/UpdateLocation/3",
+				"description": "Generated from cURL: curl -X 'PUT' \\\r\n  'https://localhost:7162/api/Location/UpdateLocation/3' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"title\": \"Operation\",\r\n  \"city\": \"Mangalore\",\r\n  \"state\": \"Karnataka\",\r\n  \"country\": \"India\",\r\n  \"zip\": 403555\r\n}'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Jobs/CreateNewJob",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Team-Lead\",\r\n  \"description\": \"Team Lead with 5 Years of Experience\",\r\n  \"locationId\": 3,\r\n  \"departmentId\": 2,\r\n  \"closingDate\": \"2024-05-12T18:57:45.462Z\"\r\n}"
+				},
+				"url": "https://localhost:7162/api/Jobs/CreateNewJob",
+				"description": "Generated from cURL: curl -X 'POST' \\\r\n  'https://localhost:7162/api/Jobs/CreateNewJob' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"title\": \"Team-Lead\",\r\n  \"description\": \"Team Lead with 5 Years of Experience\",\r\n  \"locationId\": 3,\r\n  \"departmentId\": 2,\r\n  \"closingDate\": \"2024-05-12T18:57:45.462Z\"\r\n}'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Jobs/GetJobById/12",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					}
+				],
+				"url": "https://localhost:7162/api/Jobs/GetJobById/12",
+				"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:7162/api/Jobs/GetJobById/12' \\\r\n  -H 'accept: */*'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Jobs/GetAllJobsList",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					}
+				],
+				"url": "https://localhost:7162/api/Jobs/GetAllJobsList",
+				"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:7162/api/Jobs/GetAllJobsList' \\\r\n  -H 'accept: */*'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Jobs/UpdateJob/12",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Team Lead\",\r\n  \"description\": \"Team Lead with 6 Years of Experience\",\r\n  \"locationId\": 3,\r\n  \"departmentId\": 2,\r\n  \"closingDate\": \"2024-05-12T19:12:56.236Z\"\r\n}"
+				},
+				"url": "https://localhost:7162/api/Jobs/UpdateJob/12",
+				"description": "Generated from cURL: curl -X 'PUT' \\\r\n  'https://localhost:7162/api/Jobs/UpdateJob/12' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"title\": \"Team Lead\",\r\n  \"description\": \"Team Lead with 6 Years of Experience\",\r\n  \"locationId\": 3,\r\n  \"departmentId\": 2,\r\n  \"closingDate\": \"2024-05-12T19:12:56.236Z\"\r\n}'"
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7162/api/Jobs/GetJoblist",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"q\": \"sof\",\r\n  \"pageNo\": 1,\r\n  \"pageSize\":2,\r\n  \"locationId\": 1,\r\n  \"departmentId\": 1\r\n}"
+				},
+				"url": "https://localhost:7162/api/Jobs/GetJoblist",
+				"description": "Generated from cURL: curl -X 'POST' \\\r\n  'https://localhost:7162/api/Jobs/GetJoblist' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"q\": \"sof\",\r\n  \"pageNo\": 1,\r\n  \"pageSize\":2,\r\n  \"locationId\": 1,\r\n  \"departmentId\": 1\r\n}'"
+			},
+			"response": []
+		}
+	]
+}

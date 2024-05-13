@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\model\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\model\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\model\\joblistrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\model\\joblistrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\model\\createjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\model\\createjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\model\\createlocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\model\\createlocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\model\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\model\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\model\\createdeptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\model\\createdeptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|c:\\users\\raj42\\source\\repos\\technorix\\jobmanagementapi\\jobmanagementapi\\model\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA377E-A887-4993-AB27-3E6F637BBFE1}|JobManagementAPI\\JobManagementAPI.csproj|solutionrelative:jobmanagementapi\\model\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "JobManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\appsettings.json",
+              "RelativeToolTip": "JobManagementAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T04:45:31.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "JobManagementAPI\\Controllers\\LocationController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:20:30.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateDeptDto.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\CreateDeptDto.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Model\\CreateDeptDto.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\CreateDeptDto.cs",
+              "RelativeToolTip": "JobManagementAPI\\Model\\CreateDeptDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:18:17.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateJobDto.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\CreateJobDto.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Model\\CreateJobDto.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\CreateJobDto.cs",
+              "RelativeToolTip": "JobManagementAPI\\Model\\CreateJobDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:24:44.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateLocationDto.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\CreateLocationDto.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Model\\CreateLocationDto.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\CreateLocationDto.cs",
+              "RelativeToolTip": "JobManagementAPI\\Model\\CreateLocationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:22:04.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Program.cs",
+              "RelativeToolTip": "JobManagementAPI\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwDUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:32:25.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobListRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\JobListRequestDto.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Model\\JobListRequestDto.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\JobListRequestDto.cs",
+              "RelativeToolTip": "JobManagementAPI\\Model\\JobListRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:54:54.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "JobManagementAPI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:18:02.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "JobManagementAPI\\Controllers\\JobsController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAYwHIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:19:55.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JobManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:25:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Model\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\Entities\\Department.cs",
+              "RelativeToolTip": "JobManagementAPI\\Model\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:50:58.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\Entities\\Location.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Model\\Entities\\Location.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\Entities\\Location.cs",
+              "RelativeToolTip": "JobManagementAPI\\Model\\Entities\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:22:09.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "JobManagementAPI\\Model\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\raj42\\source\\repos\\Technorix\\JobManagementAPI\\JobManagementAPI\\Model\\Entities\\Job.cs",
+              "RelativeToolTip": "JobManagementAPI\\Model\\Entities\\Job.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:56:48.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
