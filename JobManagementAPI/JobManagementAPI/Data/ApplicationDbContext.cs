@@ -12,7 +12,6 @@ namespace JobManagementAPI.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
-
         public DbSet<Job> Jobs { get; set; }
         public DbSet<Department> Department { get; set; }
         public DbSet<Location> Location { get; set; }

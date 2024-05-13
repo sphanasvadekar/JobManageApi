@@ -1,0 +1,57 @@
+﻿Job Management:
+Create Job:
+
+Test Case: Verify that a new job can be successfully created with valid details.
+Steps:
+Send a POST request to the /api/CreateNewJob endpoint with valid job details in the request body.
+Verify that the API returns a 200 OK response with the created job details.
+Update Job:
+
+Test Case: Ensure that an existing job can be updated with new information.
+Steps:
+Send a PUT request to the /api/UpdateJob/{id} endpoint with the ID of the job to be updated and valid updated job details in the request body.
+Verify that the API returns a 200 OK response with the updated job details.
+Get All Jobs:
+
+Test Case: Confirm that all available jobs can be retrieved.
+Steps:
+Send a GET request to the /api/GetAllJobsList endpoint.
+Verify that the API returns a 200 OK response with a list of all jobs.
+Location Management:
+Create Location:
+
+Test Case: Validate the creation of a new location.
+Steps:
+Send a POST request to the /api/CreateLocation endpoint with valid location details in the request body.
+Verify that the API returns a 200 OK response with the created location details.
+Update Location:
+
+Test Case: Ensure that an existing location can be updated.
+Steps:
+Send a PUT request to the /api/UpdateLocation/{id} endpoint with the ID of the location to be updated and valid updated location details in the request body.
+Verify that the API returns a 200 OK response with the updated location details.
+Get All Locations:
+
+Test Case: Verify that all locations can be retrieved.
+Steps:
+Send a GET request to the /api/GetAllLocations endpoint.
+Verify that the API returns a 200 OK response with a list of all locations.
+Department Management:
+Create Department:
+
+Test Case: Validate the creation of a new department.
+Steps:
+Send a POST request to the /api/CreateDepartment endpoint with valid department details in the request body.
+Verify that the API returns a 200 OK response with the created department details.
+Update Department:
+
+Test Case: Ensure that an existing department can be updated.
+Steps:
+Send a PUT request to the /api/UpdateDepartment/{id} endpoint with the ID of the department to be updated and valid updated department details in the request body.
+Verify that the API returns a 200 OK response with the updated department details.
+Get All Departments:
+
+Test Case: Confirm that all departments can be retrieved.
+Steps:
+Send a GET request to the /api/GetAllDepartments endpoint.
+Verify that the API returns a 200 OK response with a list of all departments.
