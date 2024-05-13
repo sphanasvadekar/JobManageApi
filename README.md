@@ -4,6 +4,13 @@ API Developed for Job Management
 Job Management API
 The Job Management API enables users to perform various operations related to job management, location management, and department management. Key functionalities include creating, updating, and retrieving jobs, as well as managing locations and departments.
 
+Setup Instructions:
+Database Setup:
+
+Execute the SQL script provided in the "SqlScript" folder.
+Modify the app settings file to configure the connection string with your server. Replace "Server=IN-5CD9370XKC" with "Server={YourServerName};Database=JobManagementDb;Trusted_connection=true;TrustServerCertificate=true;".
+
+
 Job Management:
 Create Job: Create a new job with specified details.
 Update Job: Update an existing job with new information.
@@ -33,11 +40,6 @@ Microsoft.EntityFrameworkCore.SqlServer (8.0.4)
 Microsoft.EntityFrameworkCore.Tools (8.0.4)
 Swashbuckle.AspNetCore (6.4.0)
 
-Setup Instructions:
-Database Setup:
-
-Execute the SQL script provided in the "SqlScript" folder.
-Modify the app settings file to configure the connection string with your server. Replace "Server=IN-5CD9370XKC" with "Server={YourServerName};Database=JobManagementDb;Trusted_connection=true;TrustServerCertificate=true;".
 Authentication:
 
 Use the following credentials for authentication:
