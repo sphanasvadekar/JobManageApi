@@ -12,10 +12,12 @@ Location Management:
 Create Location: Add a new location to the system.
 Update Location: Update details of an existing location.
 Get All Locations: Retrieve a list of all available locations.
+
 Department Management:
 Create Department: Add a new department to the system.
 Update Department: Update details of an existing department.
 Get All Departments: Retrieve a list of all available departments.
+
 Search Filter:
 Users can utilize search filters to find specific jobs based on various criteria.
 
@@ -30,6 +32,7 @@ Microsoft.EntityFrameworkCore (8.0.4)
 Microsoft.EntityFrameworkCore.SqlServer (8.0.4)
 Microsoft.EntityFrameworkCore.Tools (8.0.4)
 Swashbuckle.AspNetCore (6.4.0)
+
 Setup Instructions:
 Database Setup:
 
@@ -49,3 +52,5 @@ After setting up locations and departments, create jobs by specifying the locati
 Postman Collection:
 
 Explore the provided Postman collection in the "PostmanCollection" folder for easy testing and interaction with the API endpoints.
+
+Explore the provided Manual Test cases in the "Test Cases" folder for easy testing and interaction with the API endpoints.
